@@ -1,0 +1,7 @@
+{
+  "title": "Senior Data Analyst",
+  "jd_text": "We are looking for a Senior Data Analyst to partner with product teams, analyze user behavior, design experiments, and communicate recommendations. Required experience includes SQL, Python, Tableau, and experimentation or A/B testing. Candidates should have at least 3 years of relevant analytics experience. Experience with product metrics and stakeholder communication is valuable.",
+  "must_have": ["SQL", "Python", "Tableau", "Experimentation"],
+  "nice_to_have": ["Product analytics", "A/B testing", "Statistics", "Communication"],
+  "min_exp_years": 3
+}

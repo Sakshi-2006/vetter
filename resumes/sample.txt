@@ -1,0 +1,2 @@
+Sample Candidate
+Data analyst with 5 years of experience building product analytics and experimentation programs. Advanced SQL and Python; created Tableau dashboards for product and business teams. Designed A/B tests, analyzed statistics, and presented recommendations to stakeholders. Experience with BigQuery and product metrics.

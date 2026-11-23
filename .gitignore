@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env*
+!.env.example
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backend/screening.sqlite3
+backend/outputs/*.csv
+backend/uploads/
